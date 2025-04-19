@@ -3,7 +3,7 @@
 Hi I'm Hadi Majdnia, also known as Dozham. 👋
 
 
-I am a learner and an aspiring engineer passionate about intelligent robotics and AI systems & Currently focused on developing a strong foundation in embedded systems, deep learning, and image processing. I am also working on IoT projects, image processing, model training, and preprocessing.
+I'm a learner and an aspiring engineer passionate about intelligent robotics and AI systems & Currently focused on developing a strong foundation in embedded systems, deep learning, and image processing. I'm also working on IoT projects, image processing, model training, and preprocessing.
 
 I believe in continuous growth, project-based learning, and shaping the future with innovation.
 
